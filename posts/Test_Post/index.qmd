@@ -1,0 +1,12 @@
+---
+title: "Test post"
+author: "Chapman Lindgren"
+date: "2023-02-26"
+categories: [I/O Psychology, business psychology, managerial aanalysis]
+image: "Imageisjpg.jpg"
+---
+
+This is a post with executable code.
+
+```{This is a new post with executable code. Tomorrow I will present the results of my thesis data analysis.}
+```

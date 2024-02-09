@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Chapman Lindgren's Research"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/chapmanlindgren
+      - icon: linkedin
+        href: https://www.linkedin.com/in/chapman-lindgren-m-s-59751911b/
+format:
+  html:
+    theme: litera
+    css: styles.css
+
+editor: visual

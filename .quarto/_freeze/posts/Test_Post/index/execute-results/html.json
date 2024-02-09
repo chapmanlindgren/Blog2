@@ -1,0 +1,11 @@
+{
+  "hash": "66cf73ecfa7ec36d32a8e9c6e40dd9fb",
+  "result": {
+    "markdown": "---\ntitle: \"Test post\"\nauthor: \"Chapman Lindgren\"\ndate: \"2023-02-26\"\ncategories: [I/O Psychology, business psychology, managerial aanalysis]\nimage: \"Imageisjpg.jpg\"\n---\n\nThis is a post with executable code.\n\n\n```{This is a new post with executable code. Tomorrow I will present the results of my thesis data analysis.}\n```\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}
